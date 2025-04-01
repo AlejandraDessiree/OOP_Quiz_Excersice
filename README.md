@@ -25,3 +25,8 @@ This is a beginner-friendly, console-based *Quiz App* written in Python. It allo
 - User input and validation
 - Program flow control
 - Working with custom modules
+
+## How to Download the Project
+```bash
+git clone https://github.com/AlejandraDessiree/OOP_Quiz_Excersice.git
+cd OOP_Quiz_Excersice
